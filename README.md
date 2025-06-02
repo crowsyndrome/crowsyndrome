@@ -11,7 +11,6 @@ I'm a dedicated software engineer with a strong interest in Machine Learning, Ga
   <img src="https://github-readme-stats.vercel.app/api?username=crowsyndrome&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=crowsyndrome&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crowsyndrome&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crowsyndrome&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
