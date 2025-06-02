@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="left">I'm a dedicated software engineer with a strong interest in Machine Learning, Game Development, and Cybersecurity. I enjoy working on unique and creative projects that challenge me to think outside the box. My goal is to build innovative and practical solutions that make a difference.</h3>
+I'm a dedicated software engineer with a strong interest in Machine Learning, Game Development, and Cybersecurity. I enjoy working on unique and creative projects that challenge me to think outside the box. My goal is to build innovative and practical solutions that make a difference.
+
 
 ###
 
